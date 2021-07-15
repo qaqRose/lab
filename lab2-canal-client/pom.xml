@@ -5,7 +5,7 @@
     <packaging>pom</packaging>
 
     <parent>
-        <groupId>com.github.qaqRose</groupId>
+        <groupId>io.github.qxqrose</groupId>
         <artifactId>lab-parent</artifactId>
         <version>1.0</version>
     </parent>
