@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>io.github.qxqrose</groupId>
 		<artifactId>lab-parent</artifactId>
-		<version>0.1</version>
+		<version>1.0</version>
 	</parent>
 
 	<groupId>io.github.qxqrose</groupId>
@@ -20,6 +20,14 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 	</properties>
 
+
+	<dependencies>
+		<dependency>
+			<groupId>cglib</groupId>
+			<artifactId>cglib</artifactId>
+			<version>3.2.10</version>
+		</dependency>
+	</dependencies>
 
 	<build>
 		<plugins>

@@ -10,5 +10,4 @@ public class Student {
 
     private String lastName;
     private String firstName;
-    private Integer class
 }
