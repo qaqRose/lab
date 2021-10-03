@@ -3,7 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/lab.iml" filepath="$PROJECT_DIR$/.idea/lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab1-spring-bean/lab1-spring-bean.iml" filepath="$PROJECT_DIR$/lab1-spring-bean/lab1-spring-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab2-canal-client/lab2-canal-client.iml" filepath="$PROJECT_DIR$/lab2-canal-client/lab2-canal-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab3-springmvc-dispatcher/lab3-springmvc-dispatcher.iml" filepath="$PROJECT_DIR$/lab3-springmvc-dispatcher/lab3-springmvc-dispatcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab4-jdk-compare/lab4-jdk-compare.iml" filepath="$PROJECT_DIR$/lab4-jdk-compare/lab4-jdk-compare.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab5-design-decorator/lab5-design-decorator.iml" filepath="$PROJECT_DIR$/lab5-design-decorator/lab5-design-decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab6-leetcode/lab6-leetcode.iml" filepath="$PROJECT_DIR$/lab6-leetcode/lab6-leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab7-jdk-aqs/lab7-jdk-aqs.iml" filepath="$PROJECT_DIR$/lab7-jdk-aqs/lab7-jdk-aqs.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab4-jdk-compare/share.iml" filepath="$PROJECT_DIR$/lab4-jdk-compare/share.iml" />
     </modules>
   </component>
