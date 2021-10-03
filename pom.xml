@@ -17,6 +17,7 @@
         <module>lab4-jdk-compare</module>
         <module>lab5-design-decorator</module>
         <module>lab6-leetcode</module>
+        <module>lab7-jdk-aqs</module>
         <module>lab7-reflect</module>
     </modules>
 
