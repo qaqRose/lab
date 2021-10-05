@@ -13,7 +13,7 @@ public class Question746 {
 
     public static void main(String[] args) {
         Question746 question509 = new Question746();
-        System.out.println(question509.minCostClimbingStairs(3));
+//        System.out.println(question509.minCostClimbingStairs(3));
     }
 
     /**

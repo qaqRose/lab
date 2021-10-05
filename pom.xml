@@ -19,6 +19,7 @@
         <module>lab6-leetcode</module>
         <module>lab7-jdk-aqs</module>
         <module>lab7-reflect</module>
+        <module>lab8-nacos-discovery</module>
     </modules>
 
     <description>spring-bean learn</description>

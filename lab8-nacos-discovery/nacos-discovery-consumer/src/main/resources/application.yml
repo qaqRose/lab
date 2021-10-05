@@ -1,0 +1,29 @@
+
+
+server:
+  port: 9001
+
+
+spring:
+  application:
+    name: qaq-consumer
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+
+    sentinel:
+      transport:
+        dashboard: localhost:8080
+      eager: true
+      datasource:
+         ds1:
+           file:
+             file: flowrule.json
+             data-type: json
+             rule-type: flow
+
+
+#spring.cloud.sentinel.datasource.ds2.file.file=classpath: degraderule.json
+#  spring.cloud.sentinel.datasource.ds2.file.data-type=json
+#  spring.cloud.sentinel.datasource.ds2.file.rule-type=degrade
