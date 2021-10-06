@@ -21,6 +21,7 @@
         <module>lab7-reflect</module>
         <module>lab8-nacos-discovery</module>
         <module>lab9-spring-cloud-gateway</module>
+        <module>lab10-nacos-config</module>
     </modules>
 
     <description>spring-bean learn</description>
