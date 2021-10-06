@@ -14,6 +14,11 @@
 
     <artifactId>lab8-nacos-discovery</artifactId>
 
+    <modules>
+        <module>nacos-discovery-consumer</module>
+        <module>nacos-discovery-provider</module>
+    </modules>
+
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
@@ -22,13 +27,6 @@
         <spring-cloud-alibaba.version>2.2.6.RELEASE</spring-cloud-alibaba.version>
         <java.version>1.8</java.version>
     </properties>
-
-
-    <modules>
-        <module>nacos-discovery-consumer</module>
-        <module>nacos-discovery-provider</module>
-    </modules>
-
 
     <dependencyManagement>
 
