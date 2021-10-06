@@ -1,0 +1,23 @@
+
+
+server:
+  port: 8001
+spring:
+  application:
+    name: qaq-gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+    gateway:
+      routes:
+        ## 路由映射
+        ## 路由的id
+        - id: qaq-provider
+          ## load balance 负载均衡
+          uri: lb://qaq-provider
+          ## java 8 function predicate
+          predicates:
+            - Path=/provider/**
+          filters:
+            - StripPrefix=1

@@ -20,6 +20,7 @@
         <module>lab7-jdk-aqs</module>
         <module>lab7-reflect</module>
         <module>lab8-nacos-discovery</module>
+        <module>lab9-spring-cloud-gateway</module>
     </modules>
 
     <description>spring-bean learn</description>
