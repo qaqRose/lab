@@ -22,6 +22,7 @@
         <module>lab8-nacos-discovery</module>
         <module>lab9-spring-cloud-gateway</module>
         <module>lab10-nacos-config</module>
+        <module>lab11-sentinel</module>
     </modules>
 
     <description>spring-bean learn</description>

@@ -1,0 +1,12 @@
+
+
+server:
+  port: 18080
+
+spring:
+  appliction:
+    name: qaq-sentinel
+  cloud:
+    sentinel:
+      transport:
+        dashboard: localhost:8080
